@@ -21,7 +21,7 @@ function Landing () {
                 <img src={landingImg} alt="" className="hero-image"/>
 
                 <div className="buttons-container">
-                    <Link to="/sstudy" className="study">
+                    <Link to="/study" className="study">
 
                     <img src={studyIcon} alt="Study"/>
                     Estudar
